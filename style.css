@@ -1,0 +1,40 @@
+body
+{
+text-align:center;
+background: linear-gradient(#E8F0A8 0%, #ED4377 100%);
+}
+background-repeat:no repeat;
+}
+h1{
+text-shadow: 2px 2px #26C6DA;
+font-size:20px;
+}
+#bio{
+padding:20px;
+font-size:18;
+text-align:center;
+}
+img
+{
+border-radius:50%;
+width:100px;
+margin-left:40px;
+margin-right:40px;   
+}
+#Menu{
+list-style: none;
+position:fixed;
+font-family:cursive;
+top: 5px;
+right:20px;
+color:black;
+}
+.listitems{
+float:left;
+margin-left: 10px;
+margin-right:10px;
+cursor: pointer;
+}
+.listitems:hover{
+background-color: chocolate
+}
